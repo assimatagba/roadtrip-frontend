@@ -1,0 +1,875 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATtYBwJgXMh79_mRlx0YGHKkboaRwBNFnEqlX5RcJyNmnixNSoOZDEQvEi_zmelusDj791eDD9Mpy1aZVoJ_1TSngOopkrAlVRIRc3ohf4hwQ8g9aJUKAELSHXWpzfrmDPcoB67wJMy5lO0w1EqHdkpCeuKDrSs0_H_lLegjooXdf5lF9RvGYn1pRg55ymrgE-HIZXxw3KUyMfwy5db5p9h9FkmydYxoQR6TH8Z5EXpS069n9c_oj7SyrehpRX2BL_5of32sdU2XpfBcyDzZc_4wIBol4mJp7-qGgsV0vjIQZZfh-HazYS8ziY-CpypdP1Yg1j2_qjqG_QFovhePZ74VTxuatcd4HD3xID_BJmHrMOLNIq4JtXCZdIbw4zb4vWcYmQ90DR27EexkTN9x6Ijatw",
+    "results" : [
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Place de la République, 59000 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6304812,
+                "lng" : 3.0627928
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63214322989272,
+                   "lng" : 3.063902079892722
+                },
+                "southwest" : {
+                   "lat" : 50.62944357010728,
+                   "lng" : 3.061202420107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+          "name" : "Palais des Beaux-Arts de Lille",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 1500,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111279039334153714342\"\u003eabdellatif EL GAMHIOUI\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJRtzFOzx80XiEv67pZOX_X7KyiuCSJsRt7dy46HfDvFCapW0SaAAVKKb-1ZQ3_bhqBcXD5nQNkP_t7UKTIXUr0sojtXJI0OHJ0Hfz5-c2sR_9DRY12cUdPlcOkYqlRr0Ww3tGg1L4ilo7JK_F-pVZdaT55QeltpY7naiyF9pNelWMV",
+                "width" : 2000
+             }
+          ],
+          "place_id" : "ChIJ6fWoiY_VwkcRSSTqXbf3l8s",
+          "plus_code" : {
+             "compound_code" : "J3J7+54 Lille",
+             "global_code" : "9F25J3J7+54"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJ6fWoiY_VwkcRSSTqXbf3l8s",
+          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4029
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "8 Place Charles de Gaulle CS 10549, 59023 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6361752,
+                "lng" : 3.0645537
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63779687989272,
+                   "lng" : 3.065653079892722
+                },
+                "southwest" : {
+                   "lat" : 50.63509722010727,
+                   "lng" : 3.062953420107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Le Vieux Lille",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4815,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/102080224574419037381\"\u003eYves Jacques\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIej8fngch5aCDaEjqi60AkKE9Xr-kEHTNmaBUMEFy0aALOrGHbhOpGf8JLmVzZI3RKLvZKj4ashcDSrfYlnuK9DWWG0YXKwqrhk2ul5b03xCK_UTsR9wCCKdt0ovbDLJMtumJigiIDPtydNf9dT8S1dwhKsLY4EJReWsaR7oa5CLPz",
+                "width" : 3618
+             }
+          ],
+          "place_id" : "ChIJ-dfOYYjVwkcR5kSERFSx7oU",
+          "plus_code" : {
+             "compound_code" : "J3P7+FR Lille",
+             "global_code" : "9F25J3P7+FR"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJ-dfOYYjVwkcR5kSERFSx7oU",
+          "types" : [
+             "tourist_attraction",
+             "travel_agency",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 383
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Avenue Mathias Delobel, 59000 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.63822,
+                "lng" : 3.0465967
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63911842989272,
+                   "lng" : 3.048144929892723
+                },
+                "southwest" : {
+                   "lat" : 50.63641877010728,
+                   "lng" : 3.045445270107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Zoo de Lille",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 682,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113791057745539313107\"\u003eParc Zoologique de Lille\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwK7fOSQSZIf0Ctxi-L1EIdNJYP303iEcilOBPFANSq8BgiIspY6nYQpcJWkqcLqJ10pvcmZWsOgtEO3q1-G7JjfwxNqXwRUoLWWYvwJ2JMR34HuYMxqtWiklv4LpoSZgX9u-C02mLWTiDUiHe-XChAOtd7LTsFopBjFlr1-7iketkAa",
+                "width" : 1024
+             }
+          ],
+          "place_id" : "ChIJ7ZwfYn7VwkcRIk5aIVNIfNI",
+          "plus_code" : {
+             "compound_code" : "J2QW+7J Lille",
+             "global_code" : "9F25J2QW+7J"
+          },
+          "rating" : 4.1,
+          "reference" : "ChIJ7ZwfYn7VwkcRIk5aIVNIfNI",
+          "types" : [ "zoo", "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 7006
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Place Charles de Gaulle, 59000 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6370996,
+                "lng" : 3.0643936
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63843022989273,
+                   "lng" : 3.065380979892722
+                },
+                "southwest" : {
+                   "lat" : 50.63573057010728,
+                   "lng" : 3.062681320107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+          "name" : "Vieille Bourse de Lille",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 2368,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105639762791994130411\"\u003eAbed Roid\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI12QIybU5dtVvG4Ysxq8seYjpzhEV5FB77RiicnxJPqOz5JVQ_avJnNYZbFbBZ2i-3TsvYwwNncFsYCAZF9Y70Y0WCiQPXw5iPrCocKkojTCcSNyCTTtIjY8Co8gfuLHFpxRL7gQPRvDq7ohp1SeNoKjJDt8jMQBtYir1IUHDHOP80",
+                "width" : 4208
+             }
+          ],
+          "place_id" : "ChIJCSaqfIjVwkcRhvxuup4tznk",
+          "plus_code" : {
+             "compound_code" : "J3P7+RQ Lille",
+             "global_code" : "9F25J3P7+RQ"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJCSaqfIjVwkcRhvxuup4tznk",
+          "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 5478
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "23 Rue Gosselet, 59000 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6265869,
+                "lng" : 3.0665697
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.62771922989272,
+                   "lng" : 3.067927629892722
+                },
+                "southwest" : {
+                   "lat" : 50.62501957010728,
+                   "lng" : 3.065227970107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+          "name" : "Musée d'Histoire Naturelle de Lille",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 3712,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/112535022206557762868\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJl8yo_2XQrtIXf7g7F-T6vVvPz2X-g1QQusF-C_E0if2Py9DwYkJUIlwOM0zBFc-CkTiIOBlQxJ0kSpJaRFbMXGm4InRLWRgX6HbwaGaVi64WuJa-Gu85jliUz9O0z_uMeYbYPVpAtRY94LvzYW9tsKhlvkK16VY06Et2GAqSEs0e8",
+                "width" : 5568
+             }
+          ],
+          "place_id" : "ChIJBfjivZHVwkcRDFtq63HXT5c",
+          "plus_code" : {
+             "compound_code" : "J3G8+JJ Lille",
+             "global_code" : "9F25J3G8+JJ"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJBfjivZHVwkcRDFtq63HXT5c",
+          "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2328
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Boulevard Vauban, 59000 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6366636,
+                "lng" : 3.0489991
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63774097989272,
+                   "lng" : 3.051013479892722
+                },
+                "southwest" : {
+                   "lat" : 50.63504132010727,
+                   "lng" : 3.048313820107277
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+          "name" : "Jardin Vauban",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/103409028185645911241\"\u003eCarlos Vieira\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKHsUj9dBWq7dqjWosGrSo2LfbRxNf_5txL-0o3PLMNsY9MnQXmy8yefbWn_zvCy6nHeubOJDi5NpApdNFNvBcMFD3-d9eRpOLoD9MaMr8t1MqYhccowNByi5dEUaecM-JS053gLHxEuP26fGc94D8cTFowBKDZTzRG__kUFwIMH07U",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJpef_Cn_VwkcRBeReW4Eps_k",
+          "plus_code" : {
+             "compound_code" : "J2PX+MH Lille",
+             "global_code" : "9F25J2PX+MH"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJpef_Cn_VwkcRBeReW4Eps_k",
+          "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 2954
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Avenue du 43e régiment d'infanterie, 59800 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6409299,
+                "lng" : 3.0445812
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.64363529999999,
+                   "lng" : 3.0492726
+                },
+                "southwest" : {
+                   "lat" : 50.6400281,
+                   "lng" : 3.043017400000001
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Citadelle de Lille",
+          "photos" : [
+             {
+                "height" : 2160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101806054444655706644\"\u003ejeroen sabbe\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIfb1J1V_f-BK4hvTJP4NIqDFb2kiuKkbTiFBqXKL9E_EZ6tpcBWU3jBEzAN4zvEIQtpdo45yjGr1xXRe4R1XkIrm8PHdqYCmCNZ7R8KAxXc9LiNa9o7vQsVf3wGywLiVXrTeI61UTM4JqxvoZFHDjNZyHVY2wT3HwWFqmKWfx4Hj2Q",
+                "width" : 3840
+             }
+          ],
+          "place_id" : "ChIJs0YaPYIqw0cR__kROe_Ensg",
+          "plus_code" : {
+             "compound_code" : "J2RV+9R Lille",
+             "global_code" : "9F25J2RV+9R"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJs0YaPYIqw0cR__kROe_Ensg",
+          "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 369
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Place Gilleson, 59800 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.64023779999999,
+                "lng" : 3.0626686
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.64192812989273,
+                   "lng" : 3.064135479892722
+                },
+                "southwest" : {
+                   "lat" : 50.63922847010728,
+                   "lng" : 3.061435820107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+          "name" : "Cathédrale Notre-Dame-de-la-Treille à Lille",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 800,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107493965504695166609\"\u003eAlan Pembshaw\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJR-egTTGhDiFSyvuan8tABmqvlV-H89Gxdl6ob_QKcyL4vBPtfNVH14KOLcEMdyG9yP6WwNCf0s-HmmV0KQNtiFvJCD835-N2LHETPqjYExdN4f0DgpxptDV0h6oEqxfSNhTtDwvPH3cAC5vduStJ6IqcuHWb7Po-FYRVn_XtIZLzU",
+                "width" : 1199
+             }
+          ],
+          "place_id" : "ChIJdTqlEHgqw0cRHlCCAEhDN_k",
+          "plus_code" : {
+             "compound_code" : "J3R7+33 Lille",
+             "global_code" : "9F25J3R7+33"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJdTqlEHgqw0cRHlCCAEhDN_k",
+          "types" : [
+             "tourist_attraction",
+             "church",
+             "place_of_worship",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 3886
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "32 Rue de la Monnaie, 59800 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.64138579999999,
+                "lng" : 3.0632544
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.64255852989272,
+                   "lng" : 3.064409579892722
+                },
+                "southwest" : {
+                   "lat" : 50.63985887010728,
+                   "lng" : 3.061709920107277
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+          "name" : "Musée de l'Hospice Comtesse",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 3024,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104950338835611637292\"\u003eMarine Nectoux\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLQhvIFFlsWoSPJzqu17mmScUDD30st1uP5xP2kIHYqlwAYLjEEj3j26qR-IhtOw2SnweWmIo3TkVL248xH13Yqbgm8Pd3CaIwSmJ6wrQTPvpqgAGDdhzZDnuzDv0tmNK-ExNbwb-0-1Maj6r83Wr80bh1thl0K2avmm5Unx4KoSkis",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJGaWcpmfVwkcRpjSyK3JSYsI",
+          "plus_code" : {
+             "compound_code" : "J3R7+H8 Lille",
+             "global_code" : "9F25J3R7+H8"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJGaWcpmfVwkcRpjSyK3JSYsI",
+          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 770
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "42 Place Rihour, 59800 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6355931,
+                "lng" : 3.0615315
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63692917989273,
+                   "lng" : 3.062943579892722
+                },
+                "southwest" : {
+                   "lat" : 50.63422952010728,
+                   "lng" : 3.060243920107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Palais Rihour",
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107924159492737760456\"\u003eMadly diamant\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLOGIkeb8lQGZFTbO3J8zcRXwZWddLf6Tsnes1q-xuOq80hjpqoQH0WWMuxeifwTDtNyA9rPZK6m-qpysspCeJuT8qOZT9cyar_gwyGFVdC-hXbefxllik9Dwa9y4zfJDyHIHDMCwziIT1vRCMmmM_vgde1wAmE8hKTguLRliYdA3hg",
+                "width" : 2268
+             }
+          ],
+          "place_id" : "ChIJGSxXQ5_VwkcRTKjE5aAgZ6c",
+          "plus_code" : {
+             "compound_code" : "J3P6+6J Lille",
+             "global_code" : "9F25J3P6+6J"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJGSxXQ5_VwkcRTKjE5aAgZ6c",
+          "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 750
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "Place Simon Vollant, 59000 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6306241,
+                "lng" : 3.0697761
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63173117989272,
+                   "lng" : 3.070834829892723
+                },
+                "southwest" : {
+                   "lat" : 50.62903152010728,
+                   "lng" : 3.068135170107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Beffroi de l'Hôtel de Ville de Lille",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110752132379286370465\"\u003efred6810\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIjUphlL1pJK5d4cRIjCJkjWfONIwou3BoEW4eWpSPIIIy7oLRyr-sQH_Bdad6gWHzOc14yXvV7Lc4JwBiuAO1b9btY7g0A4F5J2RolkkmEkMzS6AN6oB_DPlBWMNGe5fP-Z-tKZPO4s8hXHvU5TFBzYrQUMIowGryZAxlp0_1ccPKO",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJOxgNuY3VwkcRzHWlcH4fq9g",
+          "plus_code" : {
+             "compound_code" : "J3J9+6W Lille",
+             "global_code" : "9F25J3J9+6W"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJOxgNuY3VwkcRzHWlcH4fq9g",
+          "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1100
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "12 Rue du Château d'Isenghien, 59160 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6554578,
+                "lng" : 2.981803
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.65638819999999,
+                   "lng" : 2.995579049999999
+                },
+                "southwest" : {
+                   "lat" : 50.65363740000002,
+                   "lng" : 2.97580605
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+          "name" : "Parc Naturel Urbain",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3888,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101212556335371225414\"\u003evincent vidoni\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLsD_d5yfLkEhBnA9wlICHSaLO-dYHFiXtzje3AiULHtNSjvb88XrkVoFCXKHyLOzn2ixLRsgJr5qAkK9ZjwGQRFv0Q8vrtTjnSR0V-9qG-bp3J0XRL0I9tNimyXmDbmfrLKBh8I5EpYi4SzP-HjvGDl2xG161rkg_EiSLb5RH97H5w",
+                "width" : 5184
+             }
+          ],
+          "place_id" : "ChIJKRjn7kPV3EcRo_6yqnDWuMU",
+          "plus_code" : {
+             "compound_code" : "MX4J+5P Lille",
+             "global_code" : "9F24MX4J+5P"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJKRjn7kPV3EcRo_6yqnDWuMU",
+          "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 555
+       },
+       {
+          "formatted_address" : "Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.62925,
+                "lng" : 3.057256
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.661248,
+                   "lng" : 3.1263549
+                },
+                "southwest" : {
+                   "lat" : 50.600887,
+                   "lng" : 2.967966
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+          "name" : "Lille",
+          "photos" : [
+             {
+                "height" : 3456,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105525235363959470170\"\u003evalérie Costille\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJuBQbGXau1OGQLL2oQ70zfeYbMGK6S2jLzCSfYdJrmlcJkgm0132MOVoOpEky69rpmIQetvUp-ccQccemwjKWhwWR1kDrH41qXA6LVQopzoxe3wXc0rvZBRtzEPnJAjD2p117K_Tnt94j3f74QSRXiCLSto8DWq4542bLnuh-ARDY9",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJEW4ls3nVwkcRYGNkgT7xCgQ",
+          "reference" : "ChIJEW4ls3nVwkcRYGNkgT7xCgQ",
+          "types" : [ "locality", "political" ]
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Place Simon Vollant, 59800 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6296679,
+                "lng" : 3.0687981
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63110932989272,
+                   "lng" : 3.070297829892722
+                },
+                "southwest" : {
+                   "lat" : 50.62840967010728,
+                   "lng" : 3.067598170107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+          "name" : "Porte de Paris",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 4032,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101179085500091227451\"\u003eFatin Al\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLIY_IboksizZyZpvmpEEeWy1kx-xmxGsevl3UUswMwyuJnRln0BN3q3trQCKtntXjXe16K0rozub5-Dr7-0X46bco8NtrjtN3r8jbMndmDmfSVIiWwTzSm_VvhErfp8tJEnsyuqpzJOTbZmUj3-V6XuNE0sj2bHuC-GoSKcjFozu73",
+                "width" : 3024
+             }
+          ],
+          "place_id" : "ChIJVZid5o3VwkcR0sUZj1gys24",
+          "plus_code" : {
+             "compound_code" : "J3H9+VG Lille",
+             "global_code" : "9F25J3H9+VG"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJVZid5o3VwkcR0sUZj1gys24",
+          "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1668
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "9 Rue Princesse, 59000 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6459505,
+                "lng" : 3.0586748
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.64733097989273,
+                   "lng" : 3.060001279892723
+                },
+                "southwest" : {
+                   "lat" : 50.64463132010729,
+                   "lng" : 3.057301620107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+          "name" : "Maison natale Charles de Gaulle",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 3264,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113666203544890232363\"\u003eJacques Fauritte\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKcYhZ85jA6k0icoO1lp64ejt4ICGWouMYoldQrJiLAX1mPOwymJtt8Jy0nZK8YXDAndDwJ8e94smlNMjH6nO0muJIo1jlrvHnoJBF2eYK3OnNbeYdH3eH4nEApXFX0X2l6M3NDd_9LadYnw9Q1Xywyniv2cK1w8NlLpfn0PtHZ7SD3",
+                "width" : 4928
+             }
+          ],
+          "place_id" : "ChIJp3huknsqw0cRyLe3fFUrHNY",
+          "plus_code" : {
+             "compound_code" : "J3W5+9F Lille",
+             "global_code" : "9F25J3W5+9F"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJp3huknsqw0cRyLe3fFUrHNY",
+          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 390
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "59650 Villeneuve-d'Ascq, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.63622729999999,
+                "lng" : 3.147643
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63757712989272,
+                   "lng" : 3.148992829892722
+                },
+                "southwest" : {
+                   "lat" : 50.63487747010728,
+                   "lng" : 3.146293170107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+          "name" : "Parc du Héron",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1039,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111279039334153714342\"\u003eabdellatif EL GAMHIOUI\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwIImlCVXuH_NTyUDx5YfiuYuVNNyfhGhePdpG8_EEuatw1bEO_B7sHmNcP8NMz-WejEKD4_a4i0V8oJ65iH4GipOtTO9HS_TaSTr8jykyft3tCQE-wLOKgRRrQkg38HrLGNI3Ic0Br1vO-4bJcwD_UnWirlyWL7IYepr2v5huvRmvd1",
+                "width" : 1500
+             }
+          ],
+          "place_id" : "ChIJlcBr1tTXwkcRbzXVPU7f0N0",
+          "plus_code" : {
+             "compound_code" : "J4PX+F3 Villeneuve-d'Ascq",
+             "global_code" : "9F25J4PX+F3"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJlcBr1tTXwkcRbzXVPU7f0N0",
+          "types" : [ "tourist_attraction", "park", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4380
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Parvis Saint-Maurice, 59800 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6358538,
+                "lng" : 3.0673531
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.63728622989272,
+                   "lng" : 3.068239979892722
+                },
+                "southwest" : {
+                   "lat" : 50.63458657010728,
+                   "lng" : 3.065540320107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+          "name" : "Église Saint-Maurice de Lille",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 1500,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111279039334153714342\"\u003eabdellatif EL GAMHIOUI\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwKD9DAFycSl9m6lAKdpxMAN5eUHfmU-1Drzb8PkHwK574OlEHMT5iNcI3qdG8s43fi7lt9CTUiPNYTBLgwkzUBLwHvnAI_rpas4l785qv3OjZrvzo7qn1yZ-76k_tHxQVx-7Pp1T2RQDMvhwNTrYAPpZrqslUizh9KfUs_gtwZk33OE",
+                "width" : 2000
+             }
+          ],
+          "place_id" : "ChIJV5OSdonVwkcRzAWYYJupNTc",
+          "plus_code" : {
+             "compound_code" : "J3P8+8W Lille",
+             "global_code" : "9F25J3P8+8W"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJV5OSdonVwkcRzAWYYJupNTc",
+          "types" : [
+             "tourist_attraction",
+             "church",
+             "place_of_worship",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 697
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "17 Boulevard Jean-Baptiste Lebas, 59800 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6271251,
+                "lng" : 3.0719331
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.62861997989273,
+                   "lng" : 3.073283429892722
+                },
+                "southwest" : {
+                   "lat" : 50.62592032010728,
+                   "lng" : 3.070583770107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "Gare Saint Sauveur Lille",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 518,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117500455796170770576\"\u003eGare Saint Sauveur\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwJraZKbcYPzvgxwfCVcI8nHOVODDAd4JLm4xaYWZJPNn0RyG6XG4YxD1w6xYFkSYKMzCFHfQ6slCNB6s1lHk-JBlOikveKcoLKVd0Q63OSB0E8wGJVMsfvuyb-Qjq-LrYZh0dPLEIAany_2b3besyw_gJdP0Ss6hzaS0mjBWCgcERo",
+                "width" : 779
+             }
+          ],
+          "place_id" : "ChIJSbJft5PVwkcRkK92vADYJEc",
+          "plus_code" : {
+             "compound_code" : "J3GC+VQ Lille",
+             "global_code" : "9F25J3GC+VQ"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJSbJft5PVwkcRkK92vADYJEc",
+          "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 4148
+       },
+       {
+          "business_status" : "CLOSED_TEMPORARILY",
+          "formatted_address" : "6-8 Rue des Jardins, 59800 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6388999,
+                "lng" : 3.0685229
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.64021892989272,
+                   "lng" : 3.069827079892722
+                },
+                "southwest" : {
+                   "lat" : 50.63751927010728,
+                   "lng" : 3.067127420107278
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "name" : "John Doe Escape Game Lille",
+          "permanently_closed" : true,
+          "photos" : [
+             {
+                "height" : 745,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118364449335046691030\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwLkHiYhKk6YKZe-AXeFAGd4g3JdaT2zOYPB-zhpZNnwqx-0wUkwdSctB9jU6-KNHw6bmbtckcVYT57GT8CrWNwgt6hCNS22yhBQ0YDP5nse2N8hTVLd8UPFpUH_0UqRaQ7bneIAmtMHmm_8sWwQnQcpqjEX6Hogbe8GWqmR6FjlXsTx",
+                "width" : 1500
+             }
+          ],
+          "place_id" : "ChIJgfUk44nVwkcRlBRan2NkdWg",
+          "plus_code" : {
+             "compound_code" : "J3Q9+HC Lille",
+             "global_code" : "9F25J3Q9+HC"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJgfUk44nVwkcRlBRan2NkdWg",
+          "types" : [ "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1156
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "formatted_address" : "Voie Piétonne du Bois de la Deûle, 59130 Lille, France",
+          "geometry" : {
+             "location" : {
+                "lat" : 50.6388087,
+                "lng" : 3.0488465
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 50.64015852989272,
+                   "lng" : 3.050196329892722
+                },
+                "southwest" : {
+                   "lat" : 50.63745887010727,
+                   "lng" : 3.047496670107277
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+          "name" : "Parc de la Citadelle",
+          "opening_hours" : {
+             "open_now" : true
+          },
+          "photos" : [
+             {
+                "height" : 3882,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107132241962176354995\"\u003eDelphine Voyance Lille\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATtYBwI1u97y9gLMTS2VkG8Hpwm8-HvPI6BT0jb3ZImLEArOg328GaHooOA8Vr7eM4Pp_7AFko-LFRS27XWn_XzNQczb8G_HDZMgEshKC0hXhs88EDFwuhFjg477dEwth74uyyuOI135BLzqhDBSMJBWoEjsNYnB0zaF8hDFHtL_GoiBLqGw",
+                "width" : 6920
+             }
+          ],
+          "place_id" : "ChIJodMQp2LVwkcRtNHFaabYroc",
+          "plus_code" : {
+             "compound_code" : "J2QX+GG Lille",
+             "global_code" : "9F25J2QX+GG"
+          },
+          "rating" : 4.5,
+          "reference" : "ChIJodMQp2LVwkcRtNHFaabYroc",
+          "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
+          "user_ratings_total" : 1455
+       }
+    ],
+    "status" : "OK"
+ }
+ 

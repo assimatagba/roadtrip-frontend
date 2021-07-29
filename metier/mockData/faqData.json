@@ -1,0 +1,30 @@
+[{
+    "icon" : "icone",
+    "title": "Pourquoi choisir roadtrip ?",
+    "description": "Lorem Ipsum"
+},
+{
+    "icon" : "icone",
+    "title": "Comment trouver les meilleurs offres de vol ?",
+    "description": "Lorem Ipsum"
+},
+{
+    "icon" : "icone",
+    "title": "Comment garder un oeil sur le prix des vols ?",
+    "description": "Lorem Ipsum"
+},
+{
+    "icon" : "icone",
+    "title": "Est-il toujours possible de reserver un vol pendant la pandemie de COVID 19 ?",
+    "description": "Lorem Ipsum"
+},
+{
+    "icon" : "icone",
+    "title": "Que se passe t(il si mon vol est annulé ?",
+    "description": "Lorem Ipsum"
+},
+{
+    "icon" : "icone",
+    "title": "Est-il possible de choisir des vols qui émettent moins de CO2 ?",
+    "description": "Lorem Ipsum"
+}]

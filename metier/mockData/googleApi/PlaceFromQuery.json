@@ -1,0 +1,35 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "France",
+         "geometry" : {
+            "location" : {
+               "lat" : 46.227638,
+               "lng" : 2.213749
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1241999,
+                  "lng" : 9.6624999
+               },
+               "southwest" : {
+                  "lat" : 41.31433,
+                  "lng" : -5.5591
+               }
+            }
+         },
+         "name" : "France",
+         "photos" : [
+            {
+               "height" : 408,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118104937107456265019\"\u003e118104937107456265019\u003c/a\u003e"
+               ],
+               "photo_reference" : "ATtYBwLW3U4uxzh1oaAVRrDRglHj9lKajCVHJcE8FRvCdymRbvnTt5H7N_s-Kyi5I5QoRECK7VXJ30MRAThI0pUq1cUf7qY_CzjQAxWa8aSXqoL1WGOTxGuKWSOvCPsi3F3F_LN56PgNdoXePmX8TBIHVCOE0IP3H__gf4OFZzxZ4I2Kgxvw",
+               "width" : 612
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
